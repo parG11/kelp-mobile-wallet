@@ -2,7 +2,7 @@
   "main": "kelp-mobile-wallet",
   "repository": {
     "type": "git",
-    "url": "https://github.com/parG11/kelp-mobile-wallet"
+    "url": "https://github.com/parG11/kelp-mobile-wallet.git"
   },
   "author": "parG11",
   "license": "MIT",
