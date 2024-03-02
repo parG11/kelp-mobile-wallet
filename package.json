@@ -1,5 +1,11 @@
 {
-  "main": "node_modules/expo/AppEntry.js",
+  "main": "kelp-mobile-wallet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parG11/kelp-mobile-wallet"
+  },
+  "author": "parG11",
+  "license": "MIT",
   "scripts": {
     "start": "expo start",
     "flipper": "expo start --dev-client",
@@ -80,7 +86,6 @@
     "react-native-svg-transformer": "^0.14.3",
     "typescript": "~4.0.0"
   },
-  "private": true,
   "eslintConfig": {
     "extends": "universe"
   }
